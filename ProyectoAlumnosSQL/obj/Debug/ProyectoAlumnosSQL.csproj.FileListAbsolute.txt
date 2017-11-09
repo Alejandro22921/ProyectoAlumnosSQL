@@ -1,0 +1,15 @@
+c:\users\aleja\documents\visual studio 2013\Projects\ProyectoAlumnosSQL\ProyectoAlumnosSQL\bin\Debug\ProyectoAlumnosSQL.exe.config
+C:\Users\aleja\documents\visual studio 2013\Projects\ProyectoAlumnosSQL\ProyectoAlumnosSQL\bin\Debug\ProyectoAlumnosSQL.exe
+C:\Users\aleja\documents\visual studio 2013\Projects\ProyectoAlumnosSQL\ProyectoAlumnosSQL\bin\Debug\ProyectoAlumnosSQL.pdb
+C:\Users\aleja\documents\visual studio 2013\Projects\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\ProyectoAlumnosSQL.csprojResolveAssemblyReference.cache
+C:\Users\aleja\documents\visual studio 2013\Projects\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\MainWindow.baml
+C:\Users\aleja\documents\visual studio 2013\Projects\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\MainWindow.g.cs
+C:\Users\aleja\documents\visual studio 2013\Projects\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\App.g.cs
+C:\Users\aleja\documents\visual studio 2013\Projects\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\ProyectoAlumnosSQL_MarkupCompile.cache
+C:\Users\aleja\documents\visual studio 2013\Projects\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\ProyectoAlumnosSQL.g.resources
+C:\Users\aleja\documents\visual studio 2013\Projects\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\ProyectoAlumnosSQL.Properties.Resources.resources
+C:\Users\aleja\documents\visual studio 2013\Projects\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\ProyectoAlumnosSQL.csproj.GenerateResource.Cache
+C:\Users\aleja\documents\visual studio 2013\Projects\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\ProyectoAlumnosSQL.exe
+C:\Users\aleja\documents\visual studio 2013\Projects\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\ProyectoAlumnosSQL.pdb
+C:\Users\aleja\documents\visual studio 2013\Projects\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\WBuscar.baml
+C:\Users\aleja\documents\visual studio 2013\Projects\ProyectoAlumnosSQL\ProyectoAlumnosSQL\obj\Debug\WBuscar.g.cs
